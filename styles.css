@@ -1,5 +1,8 @@
 html {
   height: 100%;
   width: 100%;
-  background-color: yellow;
+  background-color: rgb(243, 255, 251);
 }
+<body>
+ <a href="cookies.html">Example</a>
+ </body>
